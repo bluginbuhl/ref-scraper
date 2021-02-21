@@ -1,0 +1,6 @@
+Sekiya, M. Sakaino, & Toshiaki, S. T. Linear Logistic Regression for Estimation of Lower Limb Muscle Activations, IEEE Trans. Neural Syst. Rehabil Eng. 27, 523-532 (2019).
+Malouf, R. A comparison of algorithms for maximum entropy parameter estimation, In proceedings of the 6th conference on Natural language learning, Association for Computational Linguistics, 20, 1-7 (2002).
+Andrew, G. & Gao, J. Scalable training of <i>L</i><sup>1</sup>-regularized log-linear models. In Proceedings of the 24th international conference on Machine learning, ACM: Corvalis, Oregon, USA, 33-40 (2007).
+Elith, J. Leathwick, & J. Hastie, R. T. A working guide to boosted regression trees. J. Anim. Ecol., 77 , 802-813 (2008).
+Liao, X. et al. Mapping Nonfullerene Acceptors with a Novel Wide Bandgap Polymer for High Performance Polymer Solar Cells. Adv. Energy Mater. 8, 1801214 (2018).
+Zhai, W. et al. A small molecular electron acceptor based on asymmetric hexacyclic core of thieno 1,2-b indaceno 5,6-b ' thienothiophene for efficient fullerene-free polymer solar cells. Sci. Bull. 63, 845-852 (2018).
