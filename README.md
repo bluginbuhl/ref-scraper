@@ -8,7 +8,7 @@ The values for `link` will be one of three options:
 
 1. A URL for the reference
 2. The string `'no link found'` if the request was successful, but no link was found
-3. The string `'request failed` if there was a connection error during the request
+3. The string `'request failed'` if there was a connection error during the request
 
 ## Usage & Setup
 
@@ -28,7 +28,9 @@ See the `refs-example.txt` file for formatting. Each reference should be on its 
 
 ### RapidAPI
 
-In order to use the `ref_scraper.py` script, you will need to create your own API key and edit the file to include it. Create an account with RapidAPI, and then navigate to the Google Search tool. Once there, you should see a button that says "Subscribe to Test". Click on the button, then choose the free option, which will provide 600 requests per month. Once you've done this, you should be redirected to the API page, and in the "Code Snippets" window on the right, there should be a field labelled `"x-rapidapi-key"`. Copy the string value of the key and paste it into `ref_scraper.py` for the `RAPID_API_KEY` variable.
+In order to use the `ref_scraper.py` script, you will need to create your own API key and edit the file to include it. [Create an account](https://rapidapi.com/signup) with RapidAPI, and then navigate to the [Google Search tool](https://rapidapi.com/apigeek/api/google-search3). Once there, you should see a button that says "Subscribe to Test". Click on the button, then choose the free option, which will provide 600 requests per month. Once you've done this, you should be redirected to the API page, and in the "Code Snippets" window on the right, there should be a field labelled `"x-rapidapi-key"`. Copy the string value (`SIGN-UP-FOR-KEY` in the image below) of the key and paste it into `ref_scraper.py` for the `RAPID_API_KEY` variable.
+
+<img src="api-key.png" style="height: 50px">
 
 ### Run the script
 
