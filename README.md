@@ -1,5 +1,7 @@
 # Reference Link Scraper
 
+A writeup of this project can be found on [Medium](https://ben-luginbuhl.medium.com/writing-a-python-reference-web-scraper-with-rapidapi-5e810e0e1d88).
+
 This simple Python tool takes a list of references `refs.txt` (from a journal manuscript, for instance) and scrapes the web for URLs using the [RapidAPI Google Search](https://rapidapi.com/apigeek/api/google-search3/endpoints) tool. In order to use this script, you will need your own RapidAPI account and an API key for the Google Search tool (see the [RapidAPI](#rapidapi) section below).
 
 Running the script will produce a `refs-links.csv` file that will contain 3 columns: `ref_full`, `title`, `link`.
